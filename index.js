@@ -11,7 +11,7 @@ const searchCity = (query) => {
     .then((response) => response.json())
     .then((response) => {
     //   console.log(response);
-      Container.innerHTML += `
+      Container.innerHTML = `
       <h2 class="city">${response.name}</h2>
       <div class="country-details">
           <small class="country">Country: ${response.sys.country}</small>
