@@ -1,0 +1,27 @@
+body {
+  background-image: url(../images/bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 75%;
+  width: 3rem;
+  height: 3rem;
+}
+
+.logo {
+  width: 40%;
+  display: flex;
+  margin: 1rem 0 0 3rem;
+}
+
+.logo-title {
+  margin: 1rem 0.4rem;
+}
+
+a {
+  color:#fff;
+  text-decoration: none;
+}

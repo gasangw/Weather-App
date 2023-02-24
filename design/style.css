@@ -5,7 +5,7 @@
 }
 
 .main-container {
-  background-image: url(./images/weather.gif);
+  background-image: url(../images/weather.gif);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -28,22 +28,10 @@
 }
 
 a {
-  color:#00ff00;
+  color:#08e108;
   text-decoration: none;
 }
 
-img {
-  max-width: 100%;
-  width: 5rem;
-  height: 5rem;
-}
-
-.logo {
-  width: 40%;
-  display: flex;
-  margin: 1rem 0 0 3rem;
-}
-
-.logo-title {
-  margin-top: 2rem;
+a:hover {
+  color: #e48a8a;
 }
