@@ -3,3 +3,31 @@
   padding: 0;
   margin: 0;
 }
+
+.main-container {
+  background-image: url(weather.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+.intro-message {
+  width: 40%;
+  text-align: center;
+  position: relative;
+  left: 30%;
+  top: 40%;
+  color: #f0ffff;
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.title {
+  margin-bottom: 1.4rem;
+}
+
+a {
+  color:#00ff00;
+  text-decoration: none;
+}
