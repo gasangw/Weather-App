@@ -1,14 +1,16 @@
-# Project Name
+## Project Name
 
-- WeatherHub
+# WeatherHub
 
 # Description
 
 - This App helps users stay on top of the latest weather conditions in their area and around the world.
 
-# Desktop Version
-
 # Mobile Version 
+[](https://github.com/gasangw/Weather-App/blob/feature_fetchApi/screenshoots/This%20or%20That.png?raw=true)
+
+# Desktop Version
+[](https://github.com/gasangw/Weather-App/blob/feature_fetchApi/screenshoots/2.png?raw=true)
 
 ## Built With
 
