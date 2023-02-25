@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://my-weather-hub.netlify.app/)
 
 
 ## Getting Started
