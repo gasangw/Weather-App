@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
     <link rel="stylesheet" href="../design/weatherStyles.css">
     <title>Check your weather</title>
 </head>
@@ -16,16 +17,33 @@
             </a>
         </nav>
     </header>
-    <div class="wrapper">
-        <h1>Weather App</h1>
+    <div class="container">
         <div class="input_section">
             <input type="text" id="searchVal" placeholder="Search your current city...">
-            <button type="submit">Search</button>
+            <span class="material-symbols-outlined">search</span>
         </div>
-        <div id="details">
-            <div class="wrapper"></div>
+        <div class="wrapper">
+            <h3 class="city">Weather in Kampala</h3>
+            <div class="country-details">
+                <small class="country">Country: UG</small>
+                <small class="timezone">Timezone: 000000000</small>
             </div>
-        </div>  
+            <div class="firstContent">
+                <div class="des-img">
+                    <img src="#" class="imga">
+                    <p> Trailing slash on void</p>
+                 </div>
+                 <h4>23.7&deg;C</h4>
+            </div>
+            <div>
+                <ul class="more-details">
+                <li>Max-Temp: 467&deg;C</li>
+                <li>Min-Temp: 567&deg;C</li>
+                <li>Humidity: 90%</li>
+                <li>Wind Speed: 90%</li>
+                <li>Pressure: 90%</li>
+                </ul>
+            </div>  
     </div>
     <script src="../index.js"></script>
 </body>
