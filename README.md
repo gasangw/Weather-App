@@ -7,7 +7,8 @@
 - This App helps users stay on top of the latest weather conditions in their area and around the world.
 
 # Mobile Version 
-[](https://github.com/gasangw/Weather-App/blob/feature_fetchApi/screenshoots/This%20or%20That.png?raw=true)
+![This or That](https://user-images.githubusercontent.com/99269832/221362792-edea7061-e0cc-416a-bb72-5cbabcb2c747.png)
+![2](https://user-images.githubusercontent.com/99269832/221362795-bd8621f2-175b-41f1-95ba-6894cf01dca6.png)
 
 # Desktop Version
 [](https://github.com/gasangw/Weather-App/blob/feature_fetchApi/screenshoots/2.png?raw=true)
