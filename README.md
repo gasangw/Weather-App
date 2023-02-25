@@ -1,6 +1,6 @@
 ## Project Name
 
-# WeatherHub
+- WeatherHub
 
 # Description
 
