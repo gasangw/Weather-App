@@ -7,6 +7,7 @@
 - This App helps users stay on top of the latest weather conditions in their area and around the world.
 
 # view 
+![Screenshot (591)](https://user-images.githubusercontent.com/99269832/221371761-8ad2ae4f-5b91-4602-94f7-7ecb1f70465b.png)
 
 ## Built With
 **Major languages**
