@@ -27,9 +27,8 @@ const searchCity = (query) => {
           <li><b>Max-Temp:</b> ${response.main.temp_max} &deg;C</li>
           <li><b>Min-Temp:</b> ${response.main.temp_min} &deg;C</li>
           <li><b>Humidity:</b> ${response.main.humidity} %</li>
-          <li><b>Wind Speed:</b>${response.wind.speed} meter/sec</li>
+          <li><b>Wind Speed:</b> ${response.wind.speed} meter/sec</li>
           <li><b>Pressure:</b> ${response.main.pressure} hPa</li>
-          <li><b>Sea level:</b>${response.main.sea_level} hPa</li>
           </ul>
       </div>`;
       // eslint-disable-next-line array-callback-return
