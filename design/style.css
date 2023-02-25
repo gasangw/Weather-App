@@ -35,3 +35,13 @@ a {
 a:hover {
   color: #e48a8a;
 }
+
+/* media queries */
+
+@media (max-width: 769px) {
+  .intro-message {
+    width: 80%;
+    left: 10%;
+    top: 30%;
+  }
+}
