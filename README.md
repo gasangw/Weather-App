@@ -1,13 +1,12 @@
 ## Project Name
 
-# **WeatherHub**
+# WeatherHub
 
 # Description
 
 - This App helps users stay on top of the latest weather conditions in their area and around the world.
 
 # view 
-![This or That](https://user-images.githubusercontent.com/99269832/221362792-edea7061-e0cc-416a-bb72-5cbabcb2c747.png)
 
 ## Built With
 **Major languages**
