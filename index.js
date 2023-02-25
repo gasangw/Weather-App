@@ -13,7 +13,6 @@ const searchCity = (query) => {
   fetch(url)
     .then((response) => response.json())
     .then((response) => {
-      console.log(response);
       Container.innerHTML = `
       <h3 class="city">Weather in ${response.name}</h3>
       <div class="country-details">
